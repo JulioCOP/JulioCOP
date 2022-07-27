@@ -16,3 +16,5 @@
     <img align="center" alt="htmlS" 
     src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div>
+
+Formado em Engenharia Civil e apaixonado por tecnologia, paixão essa, que me permite sonhar em agregar o conhecimento de amabas as areas para resolver problemas, uma vez que, acredito que os desafios são oportunidades ao qual devem ser encaradas e abraçadas.
