@@ -4,6 +4,7 @@ Formado em Engenharia Civil e apaixonado por tecnologia, paixão essa, que me pe
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-1j997/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julio.c7/)
 
 ![JulioC GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioCOP&show_icons=true&theme=tokyonight)
 
