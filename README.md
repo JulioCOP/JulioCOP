@@ -1,4 +1,6 @@
 ### Olá, eu sou Júlio César 🤙
+Formado em Engenharia Civil e apaixonado por tecnologia, paixão essa, que me permite sonhar em agregar o conhecimento de amabas as areas para resolver problemas, uma vez que, acredito que os desafios são oportunidades ao qual devem ser encaradas e abraçadas.
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-1j997/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
@@ -19,4 +21,4 @@
 
 
 
-Formado em Engenharia Civil e apaixonado por tecnologia, paixão essa, que me permite sonhar em agregar o conhecimento de amabas as areas para resolver problemas, uma vez que, acredito que os desafios são oportunidades ao qual devem ser encaradas e abraçadas.
+
