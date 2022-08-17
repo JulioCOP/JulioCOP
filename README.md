@@ -18,6 +18,8 @@ Formado em Engenharia Civil e apaixonado por tecnologia, paixão essa, que me pe
     src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
     <img align="center" alt="htmlS" 
     src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+    <img align="center" alt="htmlS" 
+    src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 
