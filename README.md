@@ -24,7 +24,7 @@ Hoje tenho um grande sonho de continuar me capacitando e me tornar um bom progra
 
 <div style= "display: inline_block"><br/>
         <img align="center" alt="htmlS" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img align="center" alt="htmlS" src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+        <img align="center" alt="htmlS" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
         <img align="center" alt="htmlS" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />   
         <img align="center" alt="htmlS" src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img align="center" alt="htmlS" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
