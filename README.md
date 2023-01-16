@@ -15,9 +15,9 @@ Hoje tenho um grande sonho de continuar me capacitando e me tornar um bom progra
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julio.c7/)
 
 ### STATUS NO GITHUB 📊💻
-![JulioC GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioCOP&show_icons=true&theme=Gradient)
+![JulioC GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioCOP&show_icons=true&theme=merko)
 
-![Julio COP Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCOP&html&theme=Gradient)
+![Julio COP Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCOP&html&theme=merko)
  
 
 
